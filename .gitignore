@@ -1,0 +1,25 @@
+# Arquivos compilados do Java
+*.class
+
+# Arquivos de Log
+*.log
+
+# Pasta de build do Maven
+/target/
+
+# Arquivos do Eclipse
+.project
+.classpath
+.settings/
+
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
